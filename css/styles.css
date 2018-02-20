@@ -12,6 +12,8 @@ body {
 header {
   padding: 154px 0 100px;
   background-color: #000000;
+  background-image: url('../images/home-bg.jpg');
+  background-size: auto;
 }
 
 /* media query when the media is wider than 992px */

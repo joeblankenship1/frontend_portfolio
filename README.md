@@ -1,6 +1,8 @@
 # Front-End Development Portfolio
 
-This is a portfolio page for my front-end development projects.
+A portfolio page for my front-end development projects.
+
+This started out as my project area for the [NewMapsPlus](https://newmapsplus.uky.edu/) Program (which I highly recommend checking out).
 
 Bootstrap template hacked by @rgdonohue and I.
 
